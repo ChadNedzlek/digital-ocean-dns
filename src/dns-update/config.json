@@ -1,0 +1,29 @@
+{
+  "domains": {
+    "vaettir.net": {
+      "apiKey": "",
+      "records": [
+        {
+          "type": "A",
+          "name": "@",
+          "currentIp4": true
+        },
+        {
+          "type": "A",
+          "name": "www",
+          "currentIp4": true
+        },
+        {
+          "type": "AAAA",
+          "name": "@",
+          "currentIp6": true
+        },
+        {
+          "type": "A",
+          "name": "smtp",
+          "currentIp4": true
+        }
+      ]
+    }
+  }
+}
